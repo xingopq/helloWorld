@@ -1,0 +1,2 @@
+hello xingyun~
+this is your first time to study git~
